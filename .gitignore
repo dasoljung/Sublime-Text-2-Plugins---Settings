@@ -1,0 +1,6 @@
+.Python
+pip-log.txt
+*.pyc
+.DS_Store
+._*
+*.sh
